@@ -1,0 +1,1 @@
+﻿# Модуль создания instance в yandex
